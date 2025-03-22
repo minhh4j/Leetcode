@@ -9,3 +9,12 @@ function filter(arr, fn) {
 }
 
 console.log(filter([0, 10, 20, 30], n => n > 10)); 
+
+
+
+
+
+
+
+
+
